@@ -36,8 +36,6 @@ This module demonstrates:
 #
 #   There is nothing for you to turn in from this file.
 # ----------------------------------------------------------------------
-
-
 def main():
     """ Calls the other functions to demonstrate them. """
     hello()
